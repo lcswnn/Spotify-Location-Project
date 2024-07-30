@@ -12,6 +12,8 @@ For GPS Tracking: https://www.geeksforgeeks.org/gps-tracker-using-python/
 For Spotify Playing: https://pypi.org/project/pyspotify-connect/
       Only works with Spotify Premium so should be good
 
+      Can also use spotipy to do this as well
+
 '''
 
 #Libraries
