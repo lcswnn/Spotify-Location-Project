@@ -15,6 +15,9 @@ For Spotify Playing: https://pypi.org/project/pyspotify-connect/
 Play music from python into Spotify Brower: https://www.geeksforgeeks.org/how-to-play-a-spotify-audio-with-python/
       Can also use spotipy to do this as well
 
+Could be helpful: https://www.youtube.com/watch?v=uXf7IRDIQS4
+      See if you can get songs based on location or names from here
+
 '''
 
 #Libraries
